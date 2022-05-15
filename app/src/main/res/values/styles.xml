@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="SearchView.Theme" parent="Theme.AppCompat">
+        <item name="searchViewStyle">@style/SearchViewStyle</item>
+    </style>
+
+    <style name="SearchViewStyle" parent="Widget.AppCompat.SearchView">
+        <item name="android:textSize">18sp</item>
+        <item name="android:textColorPrimary">#FFFFFF</item>
+        <item name="iconSize">10dp</item>
+        <item name="android:textColorSecondary">#989898</item>
+    </style>
+
+</resources>
